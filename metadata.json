@@ -1,0 +1,6 @@
+{
+  "name": "POSHACO PRO - Quản trị Thầu/Thợ",
+  "description": "Hệ thống quản lý chương trình tích lũy, phê duyệt hóa đơn đa cấp và đối soát sản lượng Thầu/Thợ Poshaco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
